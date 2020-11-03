@@ -10,11 +10,11 @@
 
 title: Tsz's Notes                          # the main title
 
-tagline: Learning notes about programming, UX, SEO, business, digital marketing, and any other random stuff.
+tagline: Study notes about programming, UX, SEO, business, digital marketing, and any other random stuff.
 
 
 description: >-                        # used by seo meta and the atom feed
-  Learning notes about programming, UX, SEO, business, digital marketing, and any other random stuff.
+  Study notes about programming, UX, SEO, business, digital marketing, and any other random stuff.
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://tszkwaan.github.io/note/'
