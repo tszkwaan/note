@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://tszkwaan.github.io/note//note/sitemap.xml
