@@ -23,7 +23,7 @@
       <div class="site-title">
         <a href="{{ '/' | relative_url }}">{{- site.title -}}</a>
       </div>
-      <div class="site-subtitle font-italic">{{- site.tagline -}}</div>
+      <div class="site-subtitle">{{- site.tagline -}}</div>
     </div>
   </div>
 
@@ -61,7 +61,6 @@
   <span id="mode-toggle-wrapper">
     {% include mode-toggle.html %}
   </span>
-  <span class="icon-border"></span>
   {% endif %}
 
   {% for entry in site.data.contact %}
